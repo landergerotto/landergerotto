@@ -74,8 +74,7 @@
 </div>
 
 <br/>
-<div align="center">  
-  ![:name](https://count.getloli.com/get/@:landergerotto)
-</div>
+
+![:name](https://count.getloli.com/get/@:landergerotto)
 
 <br />
