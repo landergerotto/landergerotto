@@ -74,3 +74,7 @@
 </div>
 
 <br/>
+
+![:name](https://count.getloli.com/get/@:landergerotto)
+
+<br />
