@@ -58,7 +58,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.app/?user=landergerotto&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=landergerotto&theme=react&hide_border=false&count_private=true&border_radius=10" alt="streak stats"/>
     <br />
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=landergerotto&theme=react&hide_border=false&show_icons=true&include_all_commits=false&count_private=true&border_radius=10" alt="readme stats" />
   <br/>
