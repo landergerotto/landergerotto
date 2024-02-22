@@ -12,7 +12,7 @@
  
  🌱 I’m currently learning **AI, MachineLearning, C#**
 
-💬 Ask me about **C#, Python, React... or anything [here](https://github.com/salesp07/landergerotto/landergerotto/issues)**
+💬 Ask me about **C#, Python, React... or anything [here](https://github.com/landergerotto/landergerotto/issues)**
 
 ⚡ Fun fact **I'm a weeb**
 
